@@ -1,6 +1,8 @@
 # Updated JioSaavn Song Downloader Chrome Extension by Ankush(Skilled-Coder)
 
-This Extension lets you download songs right from your browser, Download 320kbps High Quality songs without Saavn pro!
+This Extension lets you download songs right from your browser, Download 320kbps High Quality songs without Saavn pro! 
+
+No need to login :H
 
 * Download specific songs along with album art and all song info
 
