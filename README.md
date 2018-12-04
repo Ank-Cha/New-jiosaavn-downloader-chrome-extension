@@ -13,7 +13,7 @@ Give a star if you like it
 
 * Download Repository as ZIP
 
-![Screenshot](zipp.png)
+![Screenshot](zip.png)
 
 * Extract the zip and make sure to keep it in a safe place, you should not move/delete this folder after installation of this extension!
 
