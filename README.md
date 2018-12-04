@@ -11,7 +11,7 @@ Give a star if you like it
 ![Screenshot](screenshot.png)
 # How to install
 
-* Download **New-jiosaavn-downloader-chrome-extension-Ankush.crx** from the repository
+* Download **New-jiosaavn-downloader-chrome-extension-Ankush.crx** from the repository and follow the instructions on this file
 
 ![Screenshot](screenshot2.PNG)
 
