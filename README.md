@@ -9,3 +9,5 @@ This Extension lets you download songs right from your browser, Download 320kbps
 Give a star if you like it
 
 ![Screenshot](screenshot.png)
+# How to install
+![Screenshot](screenshot2.png)
