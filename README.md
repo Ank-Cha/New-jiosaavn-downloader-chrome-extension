@@ -6,4 +6,5 @@ $ Download specific songs along with album art and all song info
 $ Download whole playlist in one click with 
 
 Give a star if you like it
+
 ![Screenshot](screenshot.png)
