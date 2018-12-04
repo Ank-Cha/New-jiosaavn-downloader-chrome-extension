@@ -11,5 +11,16 @@ Give a star if you like it
 ![Screenshot](screenshot.png)
 # How to install
 
+* Download Repository as ZIP
 
+![Screenshot](zipp.png)
 
+* Extract the zip and make sure to keep it in a safe place, you should not move/delete this folder after installation of this extension!
+
+![Screenshot](load.png)
+
+* Select the folder using load unpacked or simple drag n drop folder
+
+**Enjoy high quality music and awesome JioSaavn Playlists!**
+
+Please post for issues
