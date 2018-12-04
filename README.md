@@ -2,7 +2,7 @@
 
 This Extension lets you download songs right from your browser, Download 320kbps High Quality songs without Saavn pro! 
 
-No need to login :H
+No need to login :)
 
 * Download specific songs along with album art and all song info
 
