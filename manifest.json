@@ -9,6 +9,7 @@
     "128": "icons/icon128.png"
   },
   "default_locale": "en",
+  "options_page": "options.html",
   "permissions": [
     "https://www.saavn.com/*",
     "https://aa.cf.saavncdn.com/*",
