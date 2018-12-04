@@ -10,4 +10,12 @@ Give a star if you like it
 
 ![Screenshot](screenshot.png)
 # How to install
+
+* Download **New-jiosaavn-downloader-chrome-extension-Ankush.crx** from the repository
+
 ![Screenshot](screenshot2.png)
+![Screenshot](screenshot3.png)
+![Screenshot](screenshot4.png)
+**Every time you will get the following warning as this extension is not available on chrome web store, Its safe!** :relaxed:
+![Screenshot](screenshot5.png)
+
